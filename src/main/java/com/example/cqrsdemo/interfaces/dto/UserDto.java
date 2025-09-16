@@ -1,4 +1,4 @@
-package com.example.cqrsdemo.dto;
+package com.example.cqrsdemo.interfaces.dto;
 
 import lombok.*;
 

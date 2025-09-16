@@ -1,8 +1,8 @@
-package com.example.cqrsdemo.cqrs.seek;
+package com.example.cqrsdemo.interfaces.controller.seek;
 
-import com.example.cqrsdemo.cqrs.query.GetUserQuery;
-import com.example.cqrsdemo.cqrs.query.GetUserQueryHandler;
-import com.example.cqrsdemo.dto.UserDto;
+import com.example.cqrsdemo.application.query.GetUserQuery;
+import com.example.cqrsdemo.application.query.GetUserQueryHandler;
+import com.example.cqrsdemo.interfaces.dto.UserDto;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import lombok.RequiredArgsConstructor;

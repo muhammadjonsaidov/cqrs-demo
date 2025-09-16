@@ -1,7 +1,7 @@
-package com.example.cqrsdemo.cqrs.flow;
+package com.example.cqrsdemo.interfaces.controller.flow;
 
-import com.example.cqrsdemo.cqrs.command.CreateUserCommand;
-import com.example.cqrsdemo.cqrs.command.CreateUserCommandHandler;
+import com.example.cqrsdemo.application.command.CreateUserCommand;
+import com.example.cqrsdemo.application.command.CreateUserCommandHandler;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import lombok.RequiredArgsConstructor;

@@ -1,4 +1,4 @@
-package com.example.cqrsdemo.cqrs.query;
+package com.example.cqrsdemo.application.query;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
